@@ -1,10 +1,10 @@
 <lcgdict>
  <selection>
-  <class name="l1t::phase2::EMTFHit"/>
-  <class name="l1t::phase2::EMTFHitCollection"/>
-  <class name="edm::Wrapper<l1t::phase2::EMTFHitCollection>"/>
-  <class name="l1t::phase2::EMTFTrack"/>
-  <class name="l1t::phase2::EMTFTrackCollection"/>
-  <class name="edm::Wrapper<l1t::phase2::EMTFTrackCollection>"/>
+  <class name="l1t::Phase2L1EMTFHit"/>
+  <class name="l1t::Phase2L1EMTFHitCollection"/>
+  <class name="edm::Wrapper<l1t::Phase2L1EMTFHitCollection>"/>
+  <class name="l1t::Phase2L1EMTFTrack"/>
+  <class name="l1t::Phase2L1EMTFTrackCollection"/>
+  <class name="edm::Wrapper<l1t::Phase2L1EMTFTrackCollection>"/>
  </selection>
 </lcgdict>
